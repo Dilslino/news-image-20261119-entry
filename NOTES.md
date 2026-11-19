@@ -104,7 +104,7 @@ events, not their outcomes.
 
 ## Image
 
-- entry.png: JPEG bytes (1024×1024, 309,208 bytes), pre-rendered with the
+- entry.png: true PNG (1024×1024, 885,981 bytes), pre-rendered with the
   image-generation tool from the story list above, resized to the gate
   limit. Pure image, no network at run time.
 - main.py copies entry.png to $MAKEFUN_OUTPUT_DIR/entry.png (default
